@@ -7,7 +7,7 @@ on:
       upstream_repo:
         description: '上游仓库地址'
         required: true
-        default: 'suxuang/myIPTV'
+        default: 'youhunwl/TVAPP'
       upstream_branch:
         description: '上游分支名称'
         required: true
@@ -39,7 +39,7 @@ jobs:
 
     - name: Add upstream remote
       run: |
-        git remote add upstream https://github.com/${{ github.event.inputs.upstream_repo || 'suxuang/myIPTV' }}.git
+        git remote add upstream https://github.com/${{ github.event.inputs.upstream_repo || 'youhunwl/TVAPP' }}.git
         git fetch upstream
 
     - name: Check if there are changes to sync
@@ -120,7 +120,7 @@ jobs:
         echo "🔧 冲突处理：如有合并冲突，自动使用上游版本覆盖本地修改" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
         echo "**同步时间:** $(date)" >> $GITHUB_STEP_SUMMARY
-        echo "**上游仓库:** ${{ github.event.inputs.upstream_repo || 'suxuang/myIPTV' }}" >> $GITHUB_STEP_SUMMARY
+        echo "**上游仓库:** ${{ github.event.inputs.upstream_repo || 'youhunwl/TVAPP' }}" >> $GITHUB_STEP_SUMMARY
         echo "**上游分支:** ${{ github.event.inputs.upstream_branch || 'main' }}" >> $GITHUB_STEP_SUMMARY
         echo "**同步模式:** 强制同步（以远程仓库为准，自动解决冲突）" >> $GITHUB_STEP_SUMMARY
 
