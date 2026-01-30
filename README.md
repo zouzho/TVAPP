@@ -17,9 +17,9 @@
 | 月光宝盒Max             | 20260119 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒/月光宝盒Max0119.apk) | 🟢    | MAX版是多仓线路源的，默认是宝盒的站源，可以进入设置更换      |
 | 月光宝盒PLUS            | 20250601    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒/月光宝盒PLUS0601.apk) | 🟢    | PLUS版本功能较全，支持点播+直播，内置宝盒没宝数据源          |
 | 宝盒TV                  | v3.6.2  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/宝盒TV3.6.2.apk) | 🟢    | 基于OK影视二开的内置源影视TV                                 |
-| FongMi影视              | v5.1.5 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/FongMi影视) | 🟢    | 蜂蜜影视，请对照文件夹里版本说明下载                         |
-| OK影视                  | v3.6.5 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视/OK影视-电视版-3.6.5.apk) | 🟢    | 标准版                                                       |
-| OK影视Pro               | v3.9.6 | [下载](/影视/OK影视/README.md) | 🟢    | 多了在线字幕/弹幕搜索、VLC（电视版）、MPV（手机版），以上功能都需要在Pro版的设置点击关于激活看广告激活Pro功能，介意请用标准版 |
+| FongMi影视              | v5.1.6 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/FongMi影视) | 🟢    | 蜂蜜影视，请对照文件夹里版本说明下载                         |
+| OK影视                  | v3.6.6 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视/OK影视-电视版-3.6.6.apk) | 🟢    | 标准版                                                       |
+| OK影视Pro               | v3.9.7 | [下载](/影视/OK影视/README.md) | 🟢    | 多了在线字幕/弹幕搜索、VLC（电视版）、MPV（手机版），以上功能都需要在Pro版的设置点击关于激活看广告激活Pro功能，介意请用标准版 |
 | 欧歌影视                | v6.1.7      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/欧617.apk) | 🟢    | 集成多种影视资源的免费电视软件，基于影视仓魔改，内置欧歌源，安装即用 |
 | 欧歌影视魔改            | v6.1.7      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/魔617.apk) | 🟢    | 集成多种影视资源的免费电视软件，基于影视仓魔改，内置欧歌源，安装即用 |
 | 七星影仓                | v6.1.7      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/七星影仓6.1.7-251103修复版(点配置点确定).apk) | 🟢    | 天微大佬基于影视仓内置接口源，内置点配置点确定               |
@@ -68,7 +68,7 @@
 | MX Player播放器Pro版    | v1.86.0     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/MXPlayer-Pro-1.86.0-v7a-Mod-Balatan.apk) | 🟢    | 解锁VIP,集成编码器版本,保留完整多国语言。专业版的更新及修正经常滞后免费版，其它播放功能在作为本地播放器使用方面并没有啥区别！ |
 | bilibiliTV版 BBLL       | v1.5.2      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/BBLL5改1.5.2.apk) | 🟢    | 哔哩哔哩TV第三方版，完美适配TV与遥控器操作，支持弹幕功能，还支持与手机端会员通用，诸如8K、4K、杜比视界等画质应有尽有 |
 | 哔哩哔哩TV版            | v1.6.6      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/哔哩哔哩_1.6.6_v11正式版.apk) | 🟢    | 哔哩哔哩TV第三方版，V11 正式版。完美解决了之前版本中无法播放和首页无法点击的问题 |
-| BV | v0.3.12 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/BV_838_0.3.12.r838.apk) | 🟢 | 哔哩哔哩TV第三方版，国内免翻可用，拒绝神秘力量 |
+| BV | v0.3.13 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/BV_853_0.3.13.r853.21bb2de3.apk) | 🟢 | 哔哩哔哩TV第三方版，国内免翻可用，拒绝神秘力量 |
 | 儿歌多多TV              | v1.3.1.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/儿歌多多TV_1.3.1.0无限制版.apk) | 🟢    | 无限制版                                                     |
 | 七星智教                | v3.0        | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/七星智教_v3.0(陪伴孩子成长的APP)不支持安卓4.apk) | 🟢    | 集教育与娱乐于一体海量教育资源，专为儿童教育设计，全新的资源接口 |
 | 宝宝趣学                | v3.0.1      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/宝宝趣学_v3.0.1.apk) | 🟢    | 纯净无限制的TV应用，包含了儿童和家长双模式资源               |
