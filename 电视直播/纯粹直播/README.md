@@ -1,16 +1,8 @@
-<!--
- * @Descripttion: 
- * @version: 
- * @Author: 游魂
- * @Date: 2025-10-14 09:08:17
- * @LastEditors: 游魂
- * @LastEditTime: 2026-01-27 17:25:33
--->
 ## 最新版本下载
 
 由于github限制上传文件大小，故此APP后续新版本改为网盘下载
 
-## 2.0.12
+## 2.0.14
 
 ### TV版
 
