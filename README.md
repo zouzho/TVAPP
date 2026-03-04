@@ -34,7 +34,7 @@
 | 咪咕爱唱                | v9.9.012    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/咪咕爱唱_9.9.012.apk) | 🟢    | VIP版，登录即是连续包月会员                                  |
 | 家庭KTV                 | v1.16       | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/家庭ktv1.1.6_最新版.apk) | 🟢    | 部分机型扫码点歌提示软件未启动                               |
 | 想唱就唱修复版          | v2.15.63    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K%E6%AD%8C/%E6%83%B3%E5%94%B1%E5%B0%B1%E5%94%B1%E4%BF%AE%E5%A4%8D%E7%89%88v2.15.63.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
-| 金音KTV·金尊专享会员版  | v3.15.64 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/金音3.15.64.240124125.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
+| 金音KTV·金尊专享会员版  | v3.15.64 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/金音) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
 | 爱唱KTV会员版           | v2.16.58    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/爱唱KTV-v2.16.58会员版.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
 | 智能K歌解锁VIP版        | v2.17.48 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/智能K歌_2.17.48.2505081546_V2修复版.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
 | 智享K歌                 | v2.16.58    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/智享K歌_2.16.58.2411111420.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
@@ -125,11 +125,10 @@
 单仓：
  http://www.饭太硬.com/tv	# 饭太硬接口
  http://肥猫.com				# 肥猫接口
- http://fty.xxooo.cf/tv			# 神秘哥哥们备用接口
  https://毒盒.com/tv/	# 毒盒
  http://我不是.摸鱼儿.com			# 摸鱼儿接口
- http://ok321.top/tv		# OK影视内部接口
- http://ok321.top/ok		# OK影视公开接口
+ http://ok213.top/tv		# OK影视内部接口
+ http://ok213.top/ok		# OK影视公开接口
  http://tvbox.王二小放牛娃.top		# 王小二放牛娃接口
  https://www.yingm.cc/dm/dm.json  	# 动漫城接口
  http://home.jundie.top:81/top98.json	# 俊佬接口
@@ -140,14 +139,14 @@
  https://tv.菜妮丝.top			# 菜妮丝接口
  https://api.hgyx.vip/hgyx.json		# HG接口
  https://dxawi.github.io/0/0.json	# dxawi
- http://www.mitvbox.xyz/小米/DEMO.json		# 小米
+ https://mitvbox.xyz/小米/DEMO.json		# 小米
  http://xhztv.top/xhz		# 小盒子单仓
  http://xhztv.top/4k.json		# 小盒子4K
  https://9877.kstore.space/AnotherD/api.json		# 潇洒接口
  https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json	# 香雅情
  https://bitbucket.org/xduo/duoapi/raw/master/xpg.json		# 小苹果接口
  https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json		# 宝盒VIP
- http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌  # 欧歌
+ https://xn--anna-wn6lw489o.v.nxog.top/m/  # 欧歌
  https://哪吒.live/	# 哪吒
  https://www.252035.xyz/z/FongMi.json	# 真心
  http://www.meowtv.vip/tvbox.json	# 喵影视
