@@ -17,7 +17,7 @@
 | 月光宝盒Max             | 20260119 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒/月光宝盒Max0119.apk) | 🟢    | MAX版是多仓线路源的，默认是宝盒的站源，可以进入设置更换      |
 | 月光宝盒PLUS            | 20250601    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒/月光宝盒PLUS0601.apk) | 🟢    | PLUS版本功能较全，支持点播+直播，内置宝盒没宝数据源          |
 | 宝盒TV                  | v3.7.2 | [下载](/影视/宝盒TV/README.md) | 🟢    | 基于OK影视二开的内置源影视TV                                 |
-| FongMi影视              | v5.2.4 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/FongMi影视) | 🟢    | 蜂蜜影视，请对照文件夹里版本说明下载                         |
+| FongMi影视              | v5.2.6 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/FongMi影视) | 🟢    | 蜂蜜影视，请对照文件夹里版本说明下载                         |
 | OK影视                  | v3.7.3 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视/OK影视-电视版-3.7.3.apk) | 🟢    | 标准版 [安卓5专版下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视/安卓5专版) |
 | OK影视Pro               | v5.0.5 | [下载](/影视/OK影视/README.md) | 🟢    | 多了在线字幕/弹幕搜索、VLC（电视版）、MPV（手机版），以上功能都需要在Pro版的设置点击关于激活看广告激活Pro功能，介意请用标准版 |
 | 欧歌影视                | v6.1.7      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/欧617.apk) | 🟢    | 集成多种影视资源的免费电视软件，基于影视仓魔改，内置欧歌源，安装即用 |
@@ -57,7 +57,7 @@
 | 电视家修复版            | v10.2.0     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/电视家TV+5.0+稳定秒播版+稀缺.apk) | 🔴  | 稳定秒播版+稀缺。**目前无节目**                               |
 | 全网通电视              | v1.0        | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/全网通电视(安卓4)1.0.apk) | 🟢    | 支持安卓4，部分频道需要扫描开发者的小程序获取密码，切勿付费！ |
 | 宽带直播                | v1.0.18     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/宽带直播_1.0.18.apk) | 🟢    | 大屏直播，简约稳定                                           |
-| 你的电视                | v2.3.7 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/yourtv_v2.3.7.apk) | 🟢    | 包含网页源+IPTV源可切换。注：最新版本需要在远程配置中，找到“仅用于测试直播源”这一行右侧的新增按钮，点击新增，稍等10-30秒，等待大屏提示完成就可以了 |
+| 你的电视                | v2.3.8 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/yourtv_v2.3.8.apk) | 🟢    | 包含网页源+IPTV源可切换。注：最新版本需要在远程配置中，找到“仅用于测试直播源”这一行右侧的新增按钮，点击新增，稍等10-30秒，等待大屏提示完成就可以了 |
 | DongYuTvWeb | v1.0.6.5 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/app_webview_release_v1.0.6.5_20260224_0744_all.apk) | 🟢 | webview同类型的直播应用软件，节目资源丰富，包括央视、卫视、地方台 |
 | IKTV                    | v80.3.0     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/IKTV-80.3.0-电视免费k歌.apk) | 🟢    | 最新修复版可用了，切勿更新！如果弹出激活不去管他过几天就又可以用了。 |
 | 小鸡模拟器TV版          | v1.1.8      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/小鸡模拟器TV版v1.1.8永久去升级.apk) | 🔴    | 永久去升级，专为TV电视机设计，支持上万款经典游戏，亲测可运行；超级玛丽、拳皇97、怪物猎人、口袋妖怪……你的童年回忆全在这里。**目前无法下载新游戏** |
