@@ -2,12 +2,12 @@
 
 由于github限制上传文件大小，请网盘下载
 
-## 5.0.0
+## 5.0.2
 
 宝盒电视版：
-    夸克网盘：https://pan.quark.cn/s/d450a45fb521
-    UC 网盘：https://drive.uc.cn/s/aacd8267b0e04?public=1
+    夸克网盘：https://pan.quark.cn/s/3406a841dfd4
+    UC 网盘：https://drive.uc.cn/s/d66a848dd42b4?public=1
 
 宝盒手机版：
-    夸克网盘：https://pan.quark.cn/s/42b9a0e78a1b
-    UC 网盘：https://drive.uc.cn/s/953119ef5c8e4?public=1
+    夸克网盘：https://pan.quark.cn/s/af8124c17559
+    UC 网盘：https://drive.uc.cn/s/0a0709b3899c4?public=1
