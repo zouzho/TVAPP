@@ -11,7 +11,7 @@
 | APP名称                 | 版本        | 下载地址                                                     | 状态 | 备注                                                         |
 | ----------------------- | ----------- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
 | TVBox                   | 20260227 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/TVBox) | 🟢    | 空盒原版，分为白壳和黑壳版，具体进文件夹查看版本说明，需配置接口源 |
-| 影视仓                  | v6.1.9    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓/影视仓_6.1.9_opt_sign.apk) | 🟢    | 安卓6.0及以上，不支持纯血鸿蒙，需设置接口源，本仓库下方有分享。[其他版本下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓) |
+| 影视仓                  | v6.2.0  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓/影视仓_6.2.0_opt.apk) | 🟢    | 安卓6.0及以上，不支持纯血鸿蒙，需设置接口源，本仓库下方有分享。[其他版本下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓) |
 | 影视仓V3                | v3.0.36     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓/影视仓V3稳定版-3.0.36_兼容安卓4.apk) | 🟢    | V3版本兼容安卓4.4以下，家里电视或盒子是比较老的版本的系统可以安装 |
 | 月光宝盒Box             | 20251017    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒/月光宝盒Box1017.apk) | 🟢    | 单仓版本，内置数据源，全接口AI过滤广告                       |
 | 月光宝盒Max             | 20260119 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒/月光宝盒Max0119.apk) | 🟢    | MAX版是多仓线路源的，默认是宝盒的站源，可以进入设置更换      |
@@ -179,7 +179,6 @@
 推荐在线源：
  https://www.iyouhun.com/tv/zb		# 游魂直播源
  https://live.zbds.top/tv/iptv4.txt  # 直播电视IPV4
- https://3043.kstore.space/bhvip/bhzb.txt # 宝盒直播
  https://develop202.github.io/migu_video/interface.txt # 咪咕IPTV
  https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt   # 潇洒AI直播
  https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u   # 潇洒AI直播
@@ -209,7 +208,9 @@
  https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u # YanG集合源，有部分IPv6
  
 部分海外源：
- http://go8.myartsonline.com/zx/0/港澳4Gtv.txt # 港澳4Gtv
+ https://php.946985.filegear-sg.me/jackTV.m3u # JackTV直播{翻}
+ https://iptv-org.github.io/iptv/index.m3u # 海外TV直播{翻}
+ https://web.utako.moe/jp.m3u # 日本TV直播{翻}
  https://epg.pw/test_channels.m3u # 中国大陆频道
  https://epg.pw/test_channels_hong_kong.m3u # 中国香港频道
  https://epg.pw/test_channels_macau.m3u # 中国澳门频道
@@ -221,13 +222,10 @@
  https://iptv-org.github.io/iptv/index.m3u # 世界各地免费电视频道
 
 其他直播源：
- http://emby.free.coms.su/diyp/live.php # 斗鱼影厅
  https://live.freetv.top/huyayqk.m3u # 虎牙一起看
  https://live.freetv.top/douyuyqk.m3u # 斗鱼一起看
- https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top # YY轮播
- https://www.goodiptv.club/bililive.m3u # 哔哩哔哩直播源
- https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u # 虎牙直播源
- https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u # 斗鱼直播源
+ https://gongdian.top/tv/Mursor/yylunbo.m3u # YY轮播
+ https://gongdian.top/tv/Mursor/bililive.m3u # 哔哩哔哩直播源
 ```
 
 ## 免责声明
