@@ -77,7 +77,7 @@
 | 七星智教                | v3.0        | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/教育学习/七星智教_v3.0(陪伴孩子成长的APP)不支持安卓4.apk) | 🟢    | 集教育与娱乐于一体海量教育资源，专为儿童教育设计，全新的资源接口 |
 | 宝宝趣学                | v3.0.1      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/教育学习/宝宝趣学_v3.0.1.apk) | 🟢    | 纯净无限制的TV应用，包含了儿童和家长双模式资源               |
 | CIBN糖豆-糖豆广场舞TV版 | v3.2.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/运动健身/CIBN糖豆v3.2.0-糖豆TV版-会员版_teyond.apk) | 🟢    | 解锁会员版，登录账号既是VIP                                  |
-| 野草助手                | v2.0.8      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/野草助手-TV版-v2.0.8.apk) | 🟢    | 野草助手APP一款可以方便用户快捷的在电视端安装应用的应用工具，口令、远程安装等多种途径可以快速辅助大家安装应用。 |
+| 野草助手                | v2.0.13    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/野草助手-TV版-v2.0.13.apk) | 🟢    | 野草助手APP一款可以方便用户快捷的在电视端安装应用的应用工具，口令、远程安装等多种途径可以快速辅助大家安装应用。[小米电视海信电视专版](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/野草助手-小米电视海信电视专版-v2.0.12.apk) |
 | 纯粹直播TV              | v2.0.14 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/纯粹直播) | 🟢    | 专门为电视端打造，又有了全新的体验，整合了目前热门的，如B站、某鱼、虎牙、某抖等7大平台，一个app就可以看多个平台。 |
 | SimpleLiveTV            | v1.6.4    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/SimpleLive/TV版1.6.4/SimpleLive1.6.4-TV版32位.apk) | 🟢    | 简简单单的看直播，聚合抖音直播、斗鱼直播、虎牙直播和哔哩哔哩直播等 |
 | 动漫鸭                  | v10.1.0     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/动漫鸭_10.1.0.apk) | 🟢    | 动漫鸭是一款内置源的全新影视TV，虽然名字叫动漫鸭，但却是一款实打实的多线路源影视播放器，主要还是看内置的源，无需注册登录，无广告，无限制！ |
@@ -85,7 +85,7 @@
 | 新五岳影视TV            | v2.3.9      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/新五岳影视TV4K.apk) | 🟢    | 免扫4K神器，目前只有TV端，可看直播，无需设置，直接使用，新老片源几乎都有，4K+蓝光任意选择，4K免扫，基本满足日常需求 |
 | OK影视内置共存版        | v5.0.2 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视/内置共存版) | 🟢    | 最新内置共存版，不影响原版安装共存，内置了多仓线路，默认网盘线路支持超清4K原画等海量资源 |
 | 直播电视                | v20260208 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/zbds_v20260208_稳定版.apk) | 🟢    | 手机电视通用。软件永久免费使用！普通用户默认显示365天，到期会自动续期。10000+节目源每天定时更新 |
-| 应用管家                | v1.8.2     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/应用管家v1.8.2-公签版.apk) | 🟢    | 可以管理电视应用、文件，还能提取电视应用，当然也能传送应用到电视进行安装。支持TV、车机、android 4.3以上 |
+| 应用管家                | v1.8.4    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/应用管家v1.8.4-公签版.apk) | 🟢    | 可以管理电视应用、文件，还能提取电视应用，当然也能传送应用到电视进行安装。支持TV、车机、android 4.3以上 |
 | MT 管理器               | v2.18.4     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/MT管理器2.18.4.apk) | 🟢    | 文件管理工具和APK逆向修改神器                                |
 | NP 管理器               | v3.1.21     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/NP管理器-3.1.21.apk) | 🟢    | 文件管理工具和APK逆向修改神器                                |
 | 囧次元                  | v1.0.0.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/囧次元TV_1.0.0.0.apk) | 🟢    | 新版冏次元，支持安卓+TV双端，涵盖了日漫、国漫、剧场等类型。已解锁，TV 版需要切换为账号登录，无需输入任何内容，直接点击登录即可。 |
