@@ -29,7 +29,7 @@
 | 好好看TV版              | v1.1.2      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/好好看_TV_1.1.2.apk) | 🟢    | 网飞猫同一系列，纯净无广告。汇集了Netflix、电影、短剧、剧集、动漫、综艺等资源，各大平台资源同步更新，内置多条超清、蓝光、优质等线路，支持投屏、影评等功能 |
 | 小猫影视                | v2.6.0-1    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/小猫影视) | 🟢    | 小猫影视是一款全平台(Android、Windows、Macos、iOS、Linux)的影视播放器, 支持 VOD/JS 扩展源。 |
 | Kodi | v22.0 | [下载](https://mirrors.aliyun.com/xbmc/snapshots/android/arm/kodi-22.0-Piers_alpha2-armeabi-v7a.apk) | 🟢 | Kodi是一款专业的多媒体影音播放器，可播放本地存储、网络共享及流媒体内容。 [kodi教程](/wiki/kodi.md) |
-| XMBOX | v3.1.3 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/XMBOX) | 🟢 | 一个操作方便、界面简洁的Android视频播放器盒子，需自行添源，支持TV和手机双平台。 |
+| XMBOX | v3.1.6 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/XMBOX) | 🟢 | 一个操作方便、界面简洁的Android视频播放器盒子，需自行添源，支持TV和手机双平台。 |
 | 全民K歌(MV版)           | v9.8.7.1  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/全民K歌TV_MV版_9.8.7.1免费K歌神器) | 🟢    | 全民K歌2026TV电视版-官方遗留版本修复-无广告免会员无限制版        |
 | 咪咕爱唱                | v9.9.012    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/咪咕爱唱_9.9.012.apk) | 🟢    | VIP版，登录即是连续包月会员                                  |
 | 家庭KTV                 | v1.16       | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/家庭ktv1.1.6_最新版.apk) | 🟢    | 部分机型扫码点歌提示软件未启动                               |
@@ -43,6 +43,7 @@
 | 蓝调KTV                 | v3.26.74    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/蓝调KTV_3.26.74.apk) | 🟢    | 同上都是一个类型的软件，注意如果有让你更新付费切勿相信！     |
 | 嗨库KTV | v3.15.64 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/嗨库KTV-3.15.64永久激活手机点歌K歌.apk) | 🟢 | 同上都是一个类型的软件，注意如果有让你更新付费切勿相信！ |
 | 隆庭KTV | v3.15.53 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/隆庭KTV3.15.53.2312271744.apk) | 🟢 | 同上都是一个类型的软件，注意如果有让你更新付费切勿相信！ |
+| 时光KTV | v4.15.63 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/时光KTV4.15.63.2401解锁终身会员.apk) | 🟢 | 同上都是一个类型的软件，注意如果有让你更新付费切勿相信！ |
 | 我的电视                | v1.3.9.8    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/my-tv-0_1.3.9.8.apk) | 🟢    | 无广无购物的电视直播，央视、卫视、地方频道，带直播源库       |
 | OurTV(我们的电视)       | v3.9.5      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/ourTV_3.9.5.apk) | 🔴    | **开发者收到制裁，已停止转播电视信号**                       |
 | 酷9直播                 | v1.7.7.8 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/酷9直播) | 🟢    | 免费的TV端电视直播软件，首次打开是空壳，依次打开**列表设置-列表订阅**，然后**点击直播源并重启**即可，播放流畅不卡顿。具体看文件夹说明 |
@@ -73,7 +74,7 @@
 | bilibiliTV版 BBLL       | v1.5.2      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/BBLL5改1.5.2.apk) | 🟢    | 哔哩哔哩TV第三方版，完美适配TV与遥控器操作，支持弹幕功能，还支持与手机端会员通用，诸如8K、4K、杜比视界等画质应有尽有 |
 | 哔哩哔哩TV版            | v1.6.6      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/哔哩哔哩_1.6.6_v11正式版.apk) | 🟢    | 哔哩哔哩TV第三方版，V11 正式版。完美解决了之前版本中无法播放和首页无法点击的问题 |
 | BV | v0.3.14 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/BV_877_0.3.14.r877.2b5b0555.release_default_universal.apk) | 🟢 | 哔哩哔哩TV第三方版，国内免翻可用，拒绝神秘力量 |
-| BiliTV | v1.2.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/BiliTV-1.2.1.apk) | 🟢 | 又一款第三方哔哩哔哩客户端。 |
+| BiliTV | v1.2.2 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/BiliTV-1.2.2.apk) | 🟢 | 又一款第三方哔哩哔哩客户端。 |
 | 儿歌多多TV              | v1.3.1.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/教育学习/儿歌多多TV_1.3.1.0无限制版.apk) | 🟢    | 无限制版                                                     |
 | 七星智教                | v3.0        | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/教育学习/七星智教_v3.0(陪伴孩子成长的APP)不支持安卓4.apk) | 🟢    | 集教育与娱乐于一体海量教育资源，专为儿童教育设计，全新的资源接口 |
 | 宝宝趣学                | v3.0.1      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/教育学习/宝宝趣学_v3.0.1.apk) | 🟢    | 纯净无限制的TV应用，包含了儿童和家长双模式资源               |
