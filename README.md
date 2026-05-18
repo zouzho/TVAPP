@@ -128,17 +128,17 @@
 
 ```
 单仓：
- http://www.饭太硬.com/tv	# 饭太硬接口
- http://肥猫.com				# 肥猫接口
+ http://www.饭太硬.net/tv	# 饭太硬接口
+ http://肥猫.net				# 肥猫接口
  http://我不是.摸鱼儿.com			# 摸鱼儿接口
- http://ok213.top/tv		# OK影视内部接口
- http://ok213.top/ok		# OK影视公开接口
  http://tvbox.王二小放牛娃.top		# 王小二放牛娃接口
  https://9280.kstore.vip/newwex.json # 王小二放牛娃新接口
  https://17264.kstore.space/哈基米.png	# 哈基米
  https://www.yingm.cc/dm/dm.json  	# 动漫城接口
  http://home.jundie.top:81/top98.json	# 俊佬接口
  http://cdn.qiaoji8.com/tvbox.json		# 巧记
+ http://ok213.top/tv		# OK影视内部接口 暂时不可用
+ http://ok213.top/ok		# OK影视公开接口 暂时不可用
  https://cdn.gitmirror.com/bb/xduo/libs/master/index.json 	# 道长接口
  https://gitee.com/free-kingdom/dc/raw/main/T4.json			# T4接口
  https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json		# 南风接口
