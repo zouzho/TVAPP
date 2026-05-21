@@ -22,7 +22,7 @@
 | OK影视Pro               | v5.2.1 | [下载](/影视/OK影视/README.md) | 🟢    | 多了在线字幕/弹幕搜索、VLC（电视版）、MPV（手机版），以上功能都需要在Pro版的设置点击关于激活看广告激活Pro功能，介意请用标准版 |
 | 欧歌影视                | v6.1.7      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/欧617.apk) | 🟢    | 集成多种影视资源的免费电视软件，基于影视仓魔改，内置欧歌源，安装即用 |
 | 欧歌影视魔改            | v6.1.7      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/魔617.apk) | 🟢    | 集成多种影视资源的免费电视软件，基于影视仓魔改，内置欧歌源，安装即用 |
-| 七星影仓                | v6.1.7      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/七星影仓6.1.7-251103修复版(点配置点确定).apk) | 🟢    | 天微大佬基于影视仓内置接口源，内置点配置点确定               |
+| 七星影仓                | v6.1.7      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/七星影仓6.1.7-251103修复版(点配置点确定).apk) | 🔴  | 天微大佬基于影视仓内置接口源，内置点配置点确定               |
 | 七星影仓V3              | v3.0.35     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/七星影仓-V3版-安卓4.x系统专用(点配置点确定).apk) | 🟢    | 天微大佬基于影视仓V3稳定版内置接口源，内置点配置点确定。兼容安卓4.4以下 |
 | 小苹果影视              | v1.6.2     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/小苹果影视盒子-release-1.6.2.apk) | 🟢    | 内置上百线路资源。免输入接口，安装即用                       |
 | 及时雨影视 | v1.0.8 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/JSYBOX-release1.0.8.apk) | 🟢 | 同小苹果TV作者，在其基础上新增缓存下载功能，对各种源的资源能播即能缓存下载 |
@@ -63,7 +63,7 @@
 | 你的电视                | v2.4.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/yourtv_v2.4.1.apk) | 🟢    | 包含网页源+IPTV源可切换。注：最新版本需要在远程配置中，找到“仅用于测试直播源”这一行右侧的新增按钮，点击新增，稍等10-30秒，等待大屏提示完成就可以了 |
 | 云影空蒙 | v3.8.4.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/云影空蒙) | 🟢 | 一款简洁的电视直播TV空壳版软件。 |
 | DongYuTvWeb | v1.0.18 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/DongYuTvWeb) | 🟢 | webview同类型的直播应用软件，节目资源丰富，包括央视、卫视、地方台。新版已更名为**我的电视** |
-| VsTV | v2.2.8 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/VsTV) | 🟢 | VsTV 让你在 智能电视、电视盒子、平板或手机 上收看直播频道 |
+| VsTV | v2.2.11 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/VsTV) | 🟢 | VsTV 让你在 智能电视、电视盒子、平板或手机 上收看直播频道 |
 | IKTV                    | v80.3.0     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/IKTV-80.3.0-电视免费k歌.apk) | 🟢    | 最新修复版可用了，切勿更新！如果弹出激活不去管他过几天就又可以用了。 |
 | 小鸡模拟器TV版          | v1.1.8      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/小鸡模拟器TV版v1.1.8永久去升级.apk) | 🔴    | 永久去升级，专为TV电视机设计，支持上万款经典游戏，亲测可运行；超级玛丽、拳皇97、怪物猎人、口袋妖怪……你的童年回忆全在这里。**目前无法下载新游戏** |
 | 茱元游戏TV              | v2.9.3      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/茱元游戏TV-2.9.3.apk) | 🟢    | 支持搜索想玩的游戏，下载速度极快，连接手柄就可以轻松畅玩，万款海量游戏终身永久免费玩，让你瞬间回到街机时代的欢乐时光。 |
