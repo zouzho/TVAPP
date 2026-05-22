@@ -17,7 +17,7 @@
 | 月光宝盒Max             | 20260119 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒/月光宝盒Max0119.apk) | 🟢    | MAX版是多仓线路源的，默认是宝盒的站源，可以进入设置更换      |
 | 月光宝盒PLUS            | 20250601    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒/月光宝盒PLUS0601.apk) | 🟢    | PLUS版本功能较全，支持点播+直播，内置宝盒没宝数据源          |
 | 宝盒TV                  | v5.1.6 | [下载](/影视/宝盒TV/README.md) | 🟢    | 基于OK影视二开的内置源影视TV                                 |
-| FongMi影视              | v5.5.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/FongMi影视) | 🟢    | 蜂蜜影视，请对照文件夹里版本说明下载                         |
+| FongMi影视              | v5.5.2 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/FongMi影视) | 🟢    | 蜂蜜影视，请对照文件夹里版本说明下载                         |
 | OK影视                  | v5.1.6 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视/OK影视-电视版-5.1.6.apk) | 🟢    | 标准版 [安卓5专版下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视/安卓5专版) |
 | OK影视Pro               | v5.2.1 | [下载](/影视/OK影视/README.md) | 🟢    | 多了在线字幕/弹幕搜索、VLC（电视版）、MPV（手机版），以上功能都需要在Pro版的设置点击关于激活看广告激活Pro功能，介意请用标准版 |
 | 欧歌影视                | v6.1.7      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/欧617.apk) | 🟢    | 集成多种影视资源的免费电视软件，基于影视仓魔改，内置欧歌源，安装即用 |
@@ -32,7 +32,7 @@
 | uz影视 | v1.6.74 | [下载](/影视/uz影视/README.md) | 🟢 | 追剧、直播、无广、投屏、免费。 **iOS & Android & Win & Mac** |
 | Kodi | v22.0 | [下载](https://mirrors.aliyun.com/xbmc/snapshots/android/arm/kodi-22.0-Piers_alpha2-armeabi-v7a.apk) | 🟢 | Kodi是一款专业的多媒体影音播放器，可播放本地存储、网络共享及流媒体内容。 [kodi教程](/wiki/kodi.md) |
 | XMBOX | v3.1.6 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/XMBOX) | 🟢 | 一个操作方便、界面简洁的Android视频播放器盒子，需自行添源，支持TV和手机双平台。 |
-| 全民K歌(MV版)           | v9.8.7.1  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/全民K歌TV_MV版_9.8.7.1免费K歌神器) | 🟢    | 全民K歌2026TV电视版-官方遗留版本修复-无广告免会员无限制版        |
+| 全民K歌(MV版)           | v5.9.0.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/全民K歌TV版-5.9.0.1免登录无限制_teyond.apk) | 🟢    | 全民K歌2026TV电视版-官方遗留版本修复-无广告免会员无限制版        |
 | 咪咕爱唱                | v9.9.012    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/咪咕爱唱_9.9.012.apk) | 🟢    | VIP版，登录即是连续包月会员                                  |
 | 家庭KTV                 | v1.16       | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/家庭ktv1.1.6_最新版.apk) | 🟢    | 部分机型扫码点歌提示软件未启动                               |
 | 想唱就唱修复版          | v2.15.63    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K%E6%AD%8C/%E6%83%B3%E5%94%B1%E5%B0%B1%E5%94%B1%E4%BF%AE%E5%A4%8D%E7%89%88v2.15.63.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
@@ -131,7 +131,7 @@
 单仓：
  http://www.饭太硬.net/tv	# 饭太硬接口
  http://肥猫.net				# 肥猫接口
- http://我不是.摸鱼儿.com			# 摸鱼儿接口
+ http://我不是.摸鱼儿.top			# 摸鱼儿接口
  http://tvbox.王二小放牛娃.top		# 王小二放牛娃接口
  https://9280.kstore.vip/newwex.json # 王小二放牛娃新接口
  https://17264.kstore.space/哈基米.png	# 哈基米
@@ -146,7 +146,6 @@
  https://tv.菜妮丝.top			# 菜妮丝接口
  https://api.hgyx.vip/hgyx.json		# HG接口
  https://dxawi.github.io/0/0.json	# dxawi
- https://mitvbox.xyz/小米/DEMO.json		# 小米
  http://xhztv.top/xhz		# 小盒子单仓
  http://xhztv.top/4k.json		# 小盒子4K
  https://9877.kstore.space/AnotherD/api.json		# 潇洒接口
