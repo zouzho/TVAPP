@@ -10,7 +10,7 @@
 
 | APP名称                 | 版本        | 下载地址                                                     | 状态 | 备注                                                         |
 | ----------------------- | ----------- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
-| TVBox                   | 20260617 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/TVBox) | 🟢    | 空盒原版，分为白壳和黑壳版，具体进文件夹查看版本说明，需配置接口源 |
+| TVBox                   | 20260622 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/TVBox) | 🟢    | 空盒原版，分为白壳和黑壳版，具体进文件夹查看版本说明，需配置接口源 |
 | 影视仓                  | v6.2.0  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓/影视仓_6.2.0_opt.apk) | 🟢    | 安卓6.0及以上，不支持纯血鸿蒙，需设置接口源，本仓库下方有分享。[其他版本下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓) |
 | 影视仓V3                | v3.0.36     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓/影视仓V3稳定版-3.0.36_兼容安卓4.apk) | 🟢    | V3版本兼容安卓4.4以下，家里电视或盒子是比较老的版本的系统可以安装 |
 | 月光宝盒Box             | 20251017    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒/月光宝盒Box1017.apk) | 🟢    | 单仓版本，内置数据源，全接口AI过滤广告                       |
@@ -83,7 +83,7 @@
 | 宝宝趣学                | v3.0.1      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/教育学习/宝宝趣学_v3.0.1.apk) | 🟢    | 纯净无限制的TV应用，包含了儿童和家长双模式资源               |
 | CIBN糖豆-糖豆广场舞TV版 | v3.2.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/运动健身/CIBN糖豆v3.2.0-糖豆TV版-会员版_teyond.apk) | 🟢    | 解锁会员版，登录账号既是VIP                                  |
 | 野草助手                | v2.0.13    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/野草助手-TV版-v2.0.13.apk) | 🟢    | 野草助手APP一款可以方便用户快捷的在电视端安装应用的应用工具，口令、远程安装等多种途径可以快速辅助大家安装应用。[小米电视海信电视专版](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/野草助手-小米电视海信电视专版-v2.0.12.apk) |
-| 纯粹直播TV              | v2.0.17 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/纯粹直播) | 🟢    | 专门为电视端打造，又有了全新的体验，整合了目前热门的，如B站、某鱼、虎牙、某抖等7大平台，一个app就可以看多个平台。 |
+| 纯粹直播TV              | v2.0.20 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/纯粹直播) | 🟢    | 专门为电视端打造，又有了全新的体验，整合了目前热门的，如B站、某鱼、虎牙、某抖等7大平台，一个app就可以看多个平台。 |
 | SimpleLiveTV            | v1.6.4    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/SimpleLive/TV版1.6.4/SimpleLive1.6.4-TV版32位.apk) | 🟢    | 简简单单的看直播，聚合抖音直播、斗鱼直播、虎牙直播和哔哩哔哩直播等 |
 | 动漫鸭                  | v10.1.0     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/动漫鸭_10.1.0.apk) | 🟢    | 动漫鸭是一款内置源的全新影视TV，虽然名字叫动漫鸭，但却是一款实打实的多线路源影视播放器，主要还是看内置的源，无需注册登录，无广告，无限制！ |
 | FM影视内置共存版        | v5.4.2 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/FongMi影视/内置共存版) | 🟢    | 最新内置共存版，不影响原版安装共存，内置了多仓线路，默认网盘线路支持超清4K原画等海量资源 |
@@ -100,7 +100,7 @@
 | 饭太硬                  | v9.9.9      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/飯太硬.apk) | 🟢    | 内置饭太硬本地源版本                                         |
 | 云视听快TV              | v3.9.1.2010 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/云视听快TV_3.9.1.apk) | 🟢    | 快手的TV版，去除更新升级无付费内容的老版本，对比新版只是删除了几个付费的栏目！ |
 | 魔音MORIN               | v3.7.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/魔音MORIN-3.7.0去广告激活版.apk) | 🟢    | 音乐播放器、无损音乐下载工具，去广告解锁VIP会员精简版        |
-| 音悦                    | v3.3.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/音悦3.3.0.apk) | 🟢    | 音乐播放器、无损音乐下载工具，支持自定义音乐源               |
+| 音悦                    | v3.3.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/音悦3.3.1.apk) | 🟢    | 音乐播放器、无损音乐下载工具，支持自定义音乐源               |
 | 茉莉音乐                | v1.0.2      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/茉莉音乐1.0.2.apk) | 🟢    | 高级版，全网音乐免费听与下载                                 |
 | ES文件浏览器            | v4.4.3.7 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/ES文件浏览器4.4.3.7会员版-Balatan.apk) | 🟢    | 解锁所有付费VIP会员特权、免广告，登录既是永久 VIP            |
 | 淘知学堂TV              | v1.0.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/教育学习/淘知学堂TV已解锁会员.apk) | 🟢    | 本软件适合学生或家中有学生的安装，解锁高级特权，所有内容无限制播放，足不出户在家就能随时 随地高效学习。 |
@@ -109,7 +109,7 @@
 | TG音乐台                | v7.0        | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/TG音乐台-TV7.0本地版-游魂网络.apk) | 🟢    | TVBox壳本地版内置10万+音乐/MV资源                            |
 | 贝乐虎儿歌 | v6.6.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/教育学习/贝乐虎儿歌电视_6.6.0.apk) | 🔴 | 专为安卓智能电视打造的儿歌应用，种类非常丰富。**目前无法获取数据** |
 | Myyy | v2.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/Myyy_TV端2.0.0.apk) | 🟢 | 电视版的多源音乐播放器 |
-| WebHomeTV | v260617 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/WebHomeTV) | 🟢 | 基于FongMi二次开发，在其基础上重点增强了 **WebHome 自定义首页**、**App Native SDK**、**网盘链接检测** 和 **Nostr/TMDB 推荐首页** |
+| WebHomeTV | v260621 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/WebHomeTV) | 🟢 | 基于FongMi二次开发，在其基础上重点增强了 **WebHome 自定义首页**、**App Native SDK**、**网盘链接检测** 和 **Nostr/TMDB 推荐首页** |
 | 电视屏幕大师 | v2.3.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/电视屏幕大师_2.3.0.apk) | 🟢 | 一款用于电视全面检测屏幕的软件，拥有清晰度测试、灰度测试、色彩测试、坏点测试等功能。 |
 | 欢视助手 | v1.0.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/欢视助手_1.0.0.apk) | 🟢 | 和野草助手一样是一款可以方便用户快捷的在电视端安装应用的应用工具，可以访问：[https://zhushou.huan.tv](https://zhushou.huan.tv) 上传应用，也可以在微信小程序**欢视助手**上传分享。 |
 | ...updating             |             |                                                              |      |                                                              |
