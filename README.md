@@ -10,7 +10,7 @@
 
 | APP名称                 | 版本        | 下载地址                                                     | 状态 | 备注                                                         |
 | ----------------------- | ----------- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
-| TVBox                   | 20260624 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/TVBox) | 🟢    | 空盒原版，分为白壳和黑壳版，具体进文件夹查看版本说明，需配置接口源 |
+| TVBox                   | 20260625 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/TVBox) | 🟢    | 空盒原版，分为白壳和黑壳版，具体进文件夹查看版本说明，需配置接口源 |
 | 影视仓                  | v6.2.0  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓/影视仓_6.2.0_opt.apk) | 🟢    | 安卓6.0及以上，不支持纯血鸿蒙，需设置接口源，本仓库下方有分享。[其他版本下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓) |
 | 影视仓V3                | v3.0.36     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓/影视仓V3稳定版-3.0.36_兼容安卓4.apk) | 🟢    | V3版本兼容安卓4.4以下，家里电视或盒子是比较老的版本的系统可以安装 |
 | 月光宝盒Box             | 20251017    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒/月光宝盒Box1017.apk) | 🟢    | 单仓版本，内置数据源，全接口AI过滤广告                       |
@@ -64,7 +64,7 @@
 | 你的电视                | v2.4.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/yourtv_v2.4.1.apk) | 🟢    | 包含网页源+IPTV源可切换。注：最新版本需要在远程配置中，找到“仅用于测试直播源”这一行右侧的新增按钮，点击新增，稍等10-30秒，等待大屏提示完成就可以了 |
 | 云影空蒙 | v3.8.4.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/云影空蒙) | 🟢 | 一款简洁的电视直播TV空壳版软件。 |
 | DongYuTvWeb | v1.0.18 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/DongYuTvWeb) | 🟢 | webview同类型的直播应用软件，节目资源丰富，包括央视、卫视、地方台。新版已更名为**我的电视** |
-| VsTV | v2.3.3 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/VsTV) | 🟢 | VsTV 让你在 智能电视、电视盒子、平板或手机 上收看直播频道 |
+| VsTV | v2.3.7 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/VsTV) | 🟢 | VsTV 让你在 智能电视、电视盒子、平板或手机 上收看直播频道 |
 | IKTV                    | v80.3.0     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/IKTV-80.3.0-电视免费k歌.apk) | 🟢    | 最新修复版可用了，切勿更新！如果弹出激活不去管他过几天就又可以用了。 |
 | 小鸡模拟器TV版          | v1.1.8      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/小鸡模拟器TV版v1.1.8永久去升级.apk) | 🔴    | 永久去升级，专为TV电视机设计，支持上万款经典游戏，亲测可运行；超级玛丽、拳皇97、怪物猎人、口袋妖怪……你的童年回忆全在这里。**目前无法下载新游戏** |
 | 茱元游戏TV              | v2.9.3      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/茱元游戏TV-2.9.3.apk) | 🟢    | 支持搜索想玩的游戏，下载速度极快，连接手柄就可以轻松畅玩，万款海量游戏终身永久免费玩，让你瞬间回到街机时代的欢乐时光。 |
