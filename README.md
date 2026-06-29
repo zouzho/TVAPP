@@ -28,7 +28,7 @@
 | 及时雨影视 | v1.0.8 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/JSYBOX-release1.0.8.apk) | 🟢 | 同小苹果TV作者，在其基础上新增缓存下载功能，对各种源的资源能播即能缓存下载 |
 | 好好看TV版              | v1.1.2      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/好好看_TV_1.1.2.apk) | 🟢    | 网飞猫同一系列，纯净无广告。汇集了Netflix、电影、短剧、剧集、动漫、综艺等资源，各大平台资源同步更新，内置多条超清、蓝光、优质等线路，支持投屏、影评等功能 |
 | 小猫影视                | v2.6.0-1    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/小猫影视) | 🟢    | 小猫影视是一款全平台(Android、Windows、Macos、iOS、Linux)的影视播放器, 支持 VOD/JS 扩展源。 |
-| Cinetry | v0.8.0 | [下载](/影视/Cinetry/README.md) | 🟢 | Cinetry 是一款专为影音爱好者打造的本地客户端播放器，全平台覆盖 |
+| Cinetry | v0.8.3 | [下载](/影视/Cinetry/README.md) | 🟢 | Cinetry 是一款专为影音爱好者打造的本地客户端播放器，全平台覆盖 |
 | uz影视 | v1.6.74 | [下载](/影视/uz影视/README.md) | 🟢 | 追剧、直播、无广、投屏、免费。 **iOS & Android & Win & Mac** |
 | Kodi | v22.0 | [下载](https://mirrors.aliyun.com/xbmc/snapshots/android/arm/kodi-22.0-Piers_alpha2-armeabi-v7a.apk) | 🟢 | Kodi是一款专业的多媒体影音播放器，可播放本地存储、网络共享及流媒体内容。 [kodi教程](/wiki/kodi.md) |
 | XMBOX | v3.1.6 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/XMBOX) | 🟢 | 一个操作方便、界面简洁的Android视频播放器盒子，需自行添源，支持TV和手机双平台。 |
@@ -112,6 +112,7 @@
 | WebHomeTV | v260625 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/WebHomeTV) | 🟢 | 基于FongMi二次开发，在其基础上重点增强了 **WebHome 自定义首页**、**App Native SDK**、**网盘链接检测** 和 **Nostr/TMDB 推荐首页** |
 | 电视屏幕大师 | v2.3.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/电视屏幕大师_2.3.0.apk) | 🟢 | 一款用于电视全面检测屏幕的软件，拥有清晰度测试、灰度测试、色彩测试、坏点测试等功能。 |
 | 欢视助手 | v1.0.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/欢视助手_1.0.0.apk) | 🟢 | 和野草助手一样是一款可以方便用户快捷的在电视端安装应用的应用工具，可以访问：[https://zhushou.huan.tv](https://zhushou.huan.tv) 上传应用，也可以在微信小程序**欢视助手**上传分享。 |
+| PickTV | v1.0.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/PickTV) | 🟢 | 羊佬最新力作，FM二开，颜控必备，支持弹幕。 |
 | ...updating             |             |                                                              |      |                                                              |
 
 ## 接口源 🌟
