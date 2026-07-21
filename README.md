@@ -112,7 +112,7 @@
 | WebHomeTV | v260720 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/WebHomeTV) | 🟢 | 基于FongMi二次开发，在其基础上重点增强了 **WebHome 自定义首页**、**App Native SDK**、**网盘链接检测** 和 **Nostr/TMDB 推荐首页** |
 | 电视屏幕大师 | v2.3.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/电视屏幕大师_2.3.0.apk) | 🟢 | 一款用于电视全面检测屏幕的软件，拥有清晰度测试、灰度测试、色彩测试、坏点测试等功能。 |
 | 欢视助手 | v1.0.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/欢视助手_1.0.0.apk) | 🟢 | 和野草助手一样是一款可以方便用户快捷的在电视端安装应用的应用工具，可以访问：[https://zhushou.huan.tv](https://zhushou.huan.tv) 上传应用，也可以在微信小程序**欢视助手**上传分享。 |
-| PeekPro | v1.3.3 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/PeekPro) | 🟢 | 羊佬最新力作，FM二开，颜控必备，支持弹幕。 |
+| PeekPro | v1.3.7 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/PeekPro) | 🟢 | 羊佬最新力作，FM二开，颜控必备，支持弹幕。 |
 | NewBox | v1.5.5 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/NewBox) | 🟢 | 基于黑壳tvbox魔改，支持多仓，支持手机版。 |
 | ...updating             |             |                                                              |      |                                                              |
 
