@@ -11,13 +11,13 @@
 | APP名称                 | 版本        | 下载地址                                                     | 状态 | 备注                                                         |
 | ----------------------- | ----------- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
 | TVBox                   | 20260730 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/TVBox) | 🟢    | 空盒原版，分为白壳和黑壳版，具体进文件夹查看版本说明，需配置接口源 |
-| 影视仓                  | v6.2.6.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓/影视仓-6.1.7-32位_海信版.apk) | 🟢    | 安卓6.0及以上，不支持纯血鸿蒙，需设置接口源，本仓库下方有分享。[其他版本下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓) |
+| 影视仓                  | v6.2.7 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓/影视仓_6.2.7_32位电视.apk) | 🟢    | 安卓6.0及以上，不支持纯血鸿蒙，需设置接口源，本仓库下方有分享。[其他版本下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓) |
 | 影视仓V3                | v3.0.36     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓/影视仓V3稳定版-3.0.36_兼容安卓4.apk) | 🟢    | V3版本兼容安卓4.4以下，家里电视或盒子是比较老的版本的系统可以安装 |
 | 月光宝盒Box             | 20251017    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒/月光宝盒Box1017.apk) | 🟢    | 单仓版本，内置数据源，全接口AI过滤广告                       |
 | 月光宝盒Max             | 20260119 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒/月光宝盒Max0119.apk) | 🟢    | MAX版是多仓线路源的，默认是宝盒的站源，可以进入设置更换      |
 | 月光宝盒PLUS            | 20250601    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒/月光宝盒PLUS0601.apk) | 🟢    | PLUS版本功能较全，支持点播+直播，内置宝盒没宝数据源          |
 | 宝盒TV                  | v5.1.6 | [下载](/影视/宝盒TV/README.md) | 🟢    | 基于OK影视二开的内置源影视TV                                 |
-| FongMi影视              | v5.6.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/FongMi影视) | 🟢    | 蜂蜜影视，请对照文件夹里版本说明下载                         |
+| FongMi影视              | v5.6.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/FongMi影视) | 🟢    | 蜂蜜影视，请对照文件夹里版本说明下载                         |
 | OK影视                  | v5.1.6 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视/OK影视-电视版-5.1.6.apk) | 🟢    | 标准版 [安卓5专版下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视/安卓5专版) |
 | OK影视Pro               | v5.2.1 | [下载](/影视/OK影视/README.md) | 🟢    | 多了在线字幕/弹幕搜索、VLC（电视版）、MPV（手机版），以上功能都需要在Pro版的设置点击关于激活看广告激活Pro功能，介意请用标准版 |
 | 欧歌影视                | v6.1.7      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/欧617.apk) | 🟢    | 集成多种影视资源的免费电视软件，基于影视仓魔改，内置欧歌源，安装即用 |
@@ -64,7 +64,7 @@
 | 宽带直播                | v1.0.18     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/宽带直播_1.0.18.apk) | 🟢    | 大屏直播，简约稳定                                           |
 | 你的电视                | v2.4.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/yourtv_v2.4.1.apk) | 🟢    | 包含网页源+IPTV源可切换。注：最新版本需要在远程配置中，找到“仅用于测试直播源”这一行右侧的新增按钮，点击新增，稍等10-30秒，等待大屏提示完成就可以了 |
 | 云影空蒙 | v3.8.4.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/云影空蒙) | 🟢 | 一款简洁的电视直播TV空壳版软件。 |
-| DongYuTvWeb | v1.0.18 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/DongYuTvWeb) | 🟢 | webview同类型的直播应用软件，节目资源丰富，包括央视、卫视、地方台。新版已更名为**我的电视** |
+| DongYuTvWeb | v2.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/DongYuTvWeb) | 🟢 | webview同类型的直播应用软件，节目资源丰富，包括央视、卫视、地方台。新版已更名为**我的电视** |
 | VsTV | v2.5.14 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/VsTV) | 🟢 | VsTV 让你在 智能电视、电视盒子、平板或手机 上收看直播频道 |
 | IKTV                    | v80.3.0     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/IKTV-80.3.0-电视免费k歌.apk) | 🟢    | 最新修复版可用了，切勿更新！如果弹出激活不去管他过几天就又可以用了。 |
 | 小鸡模拟器TV版          | v1.1.8      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/小鸡模拟器TV版v1.1.8永久去升级.apk) | 🔴    | 永久去升级，专为TV电视机设计，支持上万款经典游戏，亲测可运行；超级玛丽、拳皇97、怪物猎人、口袋妖怪……你的童年回忆全在这里。**目前无法下载新游戏** |
@@ -101,7 +101,7 @@
 | 饭太硬                  | v9.9.9      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/飯太硬.apk) | 🔴  | 内置饭太硬本地源版本                                         |
 | 云视听快TV              | v3.9.1.2010 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/云视听快TV_3.9.1.apk) | 🟢    | 快手的TV版，去除更新升级无付费内容的老版本，对比新版只是删除了几个付费的栏目！ |
 | 魔音MORIN               | v3.7.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/魔音MORIN-3.7.0去广告激活版.apk) | 🟢    | 音乐播放器、无损音乐下载工具，去广告解锁VIP会员精简版        |
-| 音悦                    | v3.3.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/音悦3.3.1.apk) | 🟢    | 音乐播放器、无损音乐下载工具，支持自定义音乐源               |
+| 音悦                    | v3.3.2 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/音悦3.3.2.apk) | 🟢    | 音乐播放器、无损音乐下载工具，支持自定义音乐源               |
 | 茉莉音乐                | v1.0.2      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/茉莉音乐1.0.2.apk) | 🟢    | 高级版，全网音乐免费听与下载                                 |
 | ES文件浏览器            | v4.4.3.7 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/ES文件浏览器4.4.3.7会员版-Balatan.apk) | 🟢    | 解锁所有付费VIP会员特权、免广告，登录既是永久 VIP            |
 | 淘知学堂TV              | v1.0.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/教育学习/淘知学堂TV已解锁会员.apk) | 🟢    | 本软件适合学生或家中有学生的安装，解锁高级特权，所有内容无限制播放，足不出户在家就能随时 随地高效学习。 |
