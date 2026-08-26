@@ -10,7 +10,7 @@
 
 | APP名称                 | 版本        | 下载地址                                                     | 状态 | 备注                                                         |
 | ----------------------- | ----------- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
-| TVBox                   | 20260819 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/TVBox) | 🟢    | 空盒原版，分为白壳和黑壳版，具体进文件夹查看版本说明，需配置接口源 |
+| TVBox                   | 20260821 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/TVBox) | 🟢    | 空盒原版，分为白壳和黑壳版，具体进文件夹查看版本说明，需配置接口源 |
 | 影视仓                  | v6.2.7 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓/影视仓_6.2.7_32位电视.apk) | 🟢    | 安卓6.0及以上，不支持纯血鸿蒙，需设置接口源，本仓库下方有分享。[其他版本下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓) |
 | 影视仓V3                | v3.0.36     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓/影视仓V3稳定版-3.0.36_兼容安卓4.apk) | 🟢    | V3版本兼容安卓4.4以下，家里电视或盒子是比较老的版本的系统可以安装 |
 | 月光宝盒Box             | 20251017    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒/月光宝盒Box1017.apk) | 🟢    | 单仓版本，内置数据源，全接口AI过滤广告                       |
@@ -114,7 +114,7 @@
 | 电视屏幕大师 | v2.3.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/电视屏幕大师_2.3.0.apk) | 🟢 | 一款用于电视全面检测屏幕的软件，拥有清晰度测试、灰度测试、色彩测试、坏点测试等功能。 |
 | 欢视助手 | v1.0.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/欢视助手_1.0.0.apk) | 🟢 | 和野草助手一样是一款可以方便用户快捷的在电视端安装应用的应用工具，可以访问：[https://zhushou.huan.tv](https://zhushou.huan.tv) 上传应用，也可以在微信小程序**欢视助手**上传分享。 |
 | PeekPro | v1.5.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/PeekPro) | 🟢 | 羊佬最新力作，FM二开，颜控必备，支持弹幕。 |
-| NewBox | v1.9.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/NewBox) | 🟢 | 基于黑壳tvbox魔改，支持多仓，支持手机版。 |
+| NewBox | v1.9.6 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/NewBox) | 🟢 | 基于黑壳tvbox魔改，支持多仓，支持手机版。 |
 | 影视魔改 | v6.4.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视魔改) | 🟢 | 基于FM魔改，支持手机、电视，支持实时语音字幕翻译 |
 | ...updating             |             |                                                              |      |                                                              |
 
