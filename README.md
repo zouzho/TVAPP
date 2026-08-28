@@ -101,7 +101,7 @@
 | 饭太硬                  | v9.9.9      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/飯太硬.apk) | 🔴  | 内置饭太硬本地源版本                                         |
 | 云视听快TV              | v3.9.1.2010 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/云视听快TV_3.9.1.apk) | 🟢    | 快手的TV版，去除更新升级无付费内容的老版本，对比新版只是删除了几个付费的栏目！ |
 | 魔音MORIN               | v3.7.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/魔音MORIN-3.7.0去广告激活版.apk) | 🟢    | 音乐播放器、无损音乐下载工具，去广告解锁VIP会员精简版        |
-| 音悦                    | v3.3.2 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/音悦3.3.2.apk) | 🟢    | 音乐播放器、无损音乐下载工具，支持自定义音乐源               |
+| 音悦                    | v3.3.3 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/音悦3.3.3.apk) | 🟢    | 音乐播放器、无损音乐下载工具，支持自定义音乐源               |
 | 茉莉音乐                | v1.0.2      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/茉莉音乐1.0.2.apk) | 🟢    | 高级版，全网音乐免费听与下载                                 |
 | ES文件浏览器            | v4.4.3.7 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/ES文件浏览器4.4.3.7会员版-Balatan.apk) | 🟢    | 解锁所有付费VIP会员特权、免广告，登录既是永久 VIP            |
 | 淘知学堂TV              | v1.0.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/教育学习/淘知学堂TV已解锁会员.apk) | 🟢    | 本软件适合学生或家中有学生的安装，解锁高级特权，所有内容无限制播放，足不出户在家就能随时 随地高效学习。 |
@@ -113,8 +113,8 @@
 | WebHomeTV | v260820 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/WebHomeTV) | 🟢 | 基于FongMi二次开发，在其基础上重点增强了 **WebHome 自定义首页**、**App Native SDK**、**网盘链接检测** 和 **Nostr/TMDB 推荐首页** |
 | 电视屏幕大师 | v2.3.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/电视屏幕大师_2.3.0.apk) | 🟢 | 一款用于电视全面检测屏幕的软件，拥有清晰度测试、灰度测试、色彩测试、坏点测试等功能。 |
 | 欢视助手 | v1.0.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/欢视助手_1.0.0.apk) | 🟢 | 和野草助手一样是一款可以方便用户快捷的在电视端安装应用的应用工具，可以访问：[https://zhushou.huan.tv](https://zhushou.huan.tv) 上传应用，也可以在微信小程序**欢视助手**上传分享。 |
-| PeekPro | v1.5.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/PeekPro) | 🟢 | 羊佬最新力作，FM二开，颜控必备，支持弹幕。 |
-| NewBox | v1.9.6 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/NewBox) | 🟢 | 基于黑壳tvbox魔改，支持多仓，支持手机版。 |
+| PeekPro | v1.5.6 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/PeekPro) | 🟢 | 羊佬最新力作，FM二开，颜控必备，支持弹幕。 |
+| NewBox | v1.9.7 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/NewBox) | 🟢 | 基于黑壳tvbox魔改，支持多仓，支持手机版。 |
 | 影视魔改 | v6.4.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视魔改) | 🟢 | 基于FM魔改，支持手机、电视，支持实时语音字幕翻译 |
 | ...updating             |             |                                                              |      |                                                              |
 
