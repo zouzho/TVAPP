@@ -31,7 +31,7 @@
 | Cinetry | v0.8.3 | [下载](/影视/Cinetry/README.md) | 🟢 | Cinetry 是一款专为影音爱好者打造的本地客户端播放器，全平台覆盖 |
 | uz影视 | v1.6.76 | [下载](/影视/uz影视/README.md) | 🟢 | 追剧、直播、无广、投屏、免费。 **iOS & Android & Win & Mac** |
 | Kodi | v22.0 | [下载](https://mirrors.aliyun.com/xbmc/snapshots/android/arm/kodi-22.0-Piers_alpha2-armeabi-v7a.apk) | 🟢 | Kodi是一款专业的多媒体影音播放器，可播放本地存储、网络共享及流媒体内容。 [kodi教程](/wiki/kodi.md) |
-| XMBOX | v3.1.6 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/XMBOX) | 🟢 | 一个操作方便、界面简洁的Android视频播放器盒子，需自行添源，支持TV和手机双平台。 |
+| XMBOX | v3.1.7 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/XMBOX) | 🟢 | 一个操作方便、界面简洁的Android视频播放器盒子，需自行添源，支持TV和手机双平台。 |
 | 全民K歌(MV版)           | v5.9.0.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/全民K歌TV版-5.9.0.1免登录无限制_teyond.apk) | 🟢    | 全民K歌2026TV电视版-官方遗留版本修复-无广告免会员无限制版        |
 | 咪咕爱唱                | v9.9.012    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/咪咕爱唱_9.9.012.apk) | 🟢    | VIP版，登录即是连续包月会员                                  |
 | 家庭KTV                 | v1.16       | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/家庭ktv1.1.6_最新版.apk) | 🟢    | 部分机型扫码点歌提示软件未启动                               |
@@ -64,7 +64,7 @@
 | 宽带直播                | v1.0.18     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/宽带直播_1.0.18.apk) | 🟢    | 大屏直播，简约稳定                                           |
 | 你的电视                | v2.4.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/yourtv_v2.4.1.apk) | 🟢    | 包含网页源+IPTV源可切换。注：最新版本需要在远程配置中，找到“仅用于测试直播源”这一行右侧的新增按钮，点击新增，稍等10-30秒，等待大屏提示完成就可以了 |
 | 云影空蒙 | v3.8.4.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/云影空蒙) | 🟢 | 一款简洁的电视直播TV空壳版软件。 |
-| DongYuTvWeb | v2.0.6 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/DongYuTvWeb) | 🟢 | webview同类型的直播应用软件，节目资源丰富，包括央视、卫视、地方台。新版已更名为**我的电视** |
+| DongYuTvWeb | v2.0.7 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/DongYuTvWeb) | 🟢 | webview同类型的直播应用软件，节目资源丰富，包括央视、卫视、地方台。新版已更名为**我的电视** |
 | VsTV | v2.5.14 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/VsTV) | 🟢 | VsTV 让你在 智能电视、电视盒子、平板或手机 上收看直播频道 |
 | IKTV                    | v80.3.0     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/IKTV-80.3.0-电视免费k歌.apk) | 🟢    | 最新修复版可用了，切勿更新！如果弹出激活不去管他过几天就又可以用了。 |
 | 小鸡模拟器TV版          | v1.1.8      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/小鸡模拟器TV版v1.1.8永久去升级.apk) | 🔴    | 永久去升级，专为TV电视机设计，支持上万款经典游戏，亲测可运行；超级玛丽、拳皇97、怪物猎人、口袋妖怪……你的童年回忆全在这里。**目前无法下载新游戏** |
